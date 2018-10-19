@@ -76,3 +76,12 @@ section
     height: 80px;
     background: blue;
 }
+<<<<<<< HEAD
+=======
+.img-santiago{
+    height: 400px;
+    width: 400px;
+    border-radius: 30%; 
+    border: 10px groove white;
+}
+>>>>>>> b505894f1d7da4a219dcdc4d5386a192751679ce
