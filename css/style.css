@@ -71,4 +71,9 @@ section
     height: 80px;
     background: blue;
 }
-
+.img-santiago{
+    height: 400px;
+    width: 400px;
+    border-radius: 30%; 
+    border: 10px groove white;
+}
