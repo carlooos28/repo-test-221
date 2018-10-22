@@ -7,7 +7,12 @@ nav
 {
     width: 100%;
     height: 60px;
-    background: blue;
+    background: white;
+}
+
+nav img
+{
+  width: 110px;
 }
 
 section
@@ -51,7 +56,7 @@ section
     justify-content: space-between;
 }
 
-.opciones_submenu 
+.opciones_submenu
 {
     width: 32%;
     height: 80px;
@@ -71,9 +76,12 @@ section
     height: 80px;
     background: blue;
 }
+<<<<<<< HEAD
+=======
 .img-santiago{
     height: 400px;
     width: 400px;
     border-radius: 30%; 
     border: 10px groove white;
 }
+>>>>>>> b505894f1d7da4a219dcdc4d5386a192751679ce
